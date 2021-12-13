@@ -7,4 +7,14 @@ Those scenes provide the ground truth data as watertight meshes, so that they ar
 
 To virtually compose rendered shots, we have used a panoramic camera to obtain an equirectangular projection covering 360x180 degrees with the Z axis being the up axis (along gravity direction). For that, the camera object was set its rotation at (90º, 0º, 0º) and location at (0, 0, 0) with respect to the world coordinate system (x, y, z). Each rendered image has a height of 512 and width of 1024.
 
-This dataset is the material related to **"Deep3DLayout: 3D Reconstruction of an Indoor Layout from a Spherical Panoramic Image"**.
+This dataset is the material related to 
+
+Giovanni Pintore, Eva Almansa, Marco Agus, and Enrico Gobbetti. 2021. **Deep3DLayout: 3D reconstruction of an indoor layout from a spherical panoramic image**. ACM Trans. Graph. 40, 6, Article 250 (December 2021), 12 pages. DOI:https://doi.org/10.1145/3478513.3480480
+
+
+## Content example
+
+| | |
+|:-----------|:--------------|
+360º image (512x1024 pixels) ![equi_img](/media/living_room4_1.jpg) | Boundary Mesh ![mesh](/media/living_room4_1_mesh.png)
+
