@@ -11,7 +11,11 @@ To virtually compose rendered shots, we have used a panoramic camera to obtain a
 
 Giovanni Pintore, Eva Almansa, Marco Agus, and Enrico Gobbetti. 2021. **Deep3DLayout: 3D reconstruction of an indoor layout from a spherical panoramic image**. ACM Trans. Graph. 40, 6, Article 250 (December 2021), 12 pages. DOI:https://doi.org/10.1145/3478513.3480480
 
-## Content example of each folder in dataset
+> Split dataset
+
+In this publication, this was the split dataset used for [train](https://github.com/EvaAlmansa/Pano3DLayout/blob/master/docs/split_dataset/train.txt) and [test](https://github.com/EvaAlmansa/Pano3DLayout/bl.ob/master/docs/split_dataset/test.txt).
+
+## Content example of each folder in [dataset](https://github.com/EvaAlmansa/Pano3DLayout/tree/master/dataset)
 
 | img | label_cor |
 |:-----------|:--------------|
