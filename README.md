@@ -1,7 +1,7 @@
 # Pano3DLayout 
 ## Dataset description
 
-The dataset consists of 106 scenes containing mostly special indoor cases not included in commonly available datasets, such as sloped ceilings, stepped ceilings, arched ceilings, curved walls and curved floors.
+The dataset consists of 107 scenes containing mostly special indoor cases not included in commonly available datasets, such as sloped ceilings, stepped ceilings, arched ceilings, curved walls and curved floors.
 
 Those scenes provide the ground truth data as watertight meshes, so that they are compatible with common 3D mesh reconstruction pipelines. Besides, they are a mirrored version of meshes to comply with the adopted equirectangular convention (reflected in the X axis).
 
