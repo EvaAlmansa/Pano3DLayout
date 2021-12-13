@@ -12,9 +12,9 @@ This dataset is the material related to
 Giovanni Pintore, Eva Almansa, Marco Agus, and Enrico Gobbetti. 2021. **Deep3DLayout: 3D reconstruction of an indoor layout from a spherical panoramic image**. ACM Trans. Graph. 40, 6, Article 250 (December 2021), 12 pages. DOI:https://doi.org/10.1145/3478513.3480480
 
 
-## Content example
+## Content of each folder
 
-| 360º image (512x1024 pixels) | Boundary Mesh |
+| img | label_cor |
 |:-----------|:--------------|
-![equi_img](/media/living_room4_1.jpg) | ![mesh](/media/living_room4_1_mesh.png)
+360º image (512x1024 pixels) ![equi_img](/media/living_room4_1.jpg) | Boundary Mesh ![mesh](/media/living_room4_1_mesh.png)
 
