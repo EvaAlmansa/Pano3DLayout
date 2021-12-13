@@ -13,7 +13,7 @@ Giovanni Pintore, Eva Almansa, Marco Agus, and Enrico Gobbetti. 2021. **Deep3DLa
 
 > Split dataset
 
-In this publication, this was the split dataset used for [train](https://github.com/EvaAlmansa/Pano3DLayout/blob/master/docs/split_dataset/train.txt) and [test](https://github.com/EvaAlmansa/Pano3DLayout/bl.ob/master/docs/split_dataset/test.txt).
+In this publication, this was the split dataset used for [train](https://github.com/EvaAlmansa/Pano3DLayout/blob/master/docs/split_dataset/train.txt) and [test](https://github.com/EvaAlmansa/Pano3DLayout/blob/master/docs/split_dataset/test.txt).
 
 ## Content example of each folder in [dataset](https://github.com/EvaAlmansa/Pano3DLayout/tree/master/dataset)
 
