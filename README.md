@@ -11,7 +11,7 @@ To virtually compose rendered shots, we have used a panoramic camera to obtain a
 
 | img | label_cor |
 |:-----------|:--------------|
-360º image (512x1024 pixels) ![equi_img](/media/living_room4_1.jpg) | Boundary Mesh ![mesh](/media/living_room4_1_mesh.png)
+360º image (512x1024 pixels) ![equi_img](/figures/living_room4_1.jpg) | Boundary Mesh ![mesh](/figures/living_room4_1_mesh.png)
 
 ## This dataset is the material that belongs to the following publication
 
