@@ -14,7 +14,7 @@ Giovanni Pintore, Eva Almansa, Marco Agus, and Enrico Gobbetti. 2021. **Deep3DLa
 
 ## Content example
 
-| | |
+| 360º image (512x1024 pixels) | Boundary Mesh |
 |:-----------|:--------------|
-360º image (512x1024 pixels) ![equi_img](/media/living_room4_1.jpg) | Boundary Mesh ![mesh](/media/living_room4_1_mesh.png)
+![equi_img](/media/living_room4_1.jpg) | ![mesh](/media/living_room4_1_mesh.png)
 
