@@ -23,5 +23,5 @@ In this publication, we used this dataset split as follows:
 
 | img | label_cor |
 |:-----------|:--------------|
-360º image (512x1024 pixels) ![equi_img](/docs/figures/living_room4_1.jpg) | Boundary Mesh (3D obj) ![mesh](/docs/figures/living_room4_1_mesh.png)
+360º image (512x1024 pixels) ![equi_img](/assets/figures/living_room4_1.jpg) | Boundary Mesh (3D obj) ![mesh](/assets/figures/living_room4_1_mesh.png)
 
