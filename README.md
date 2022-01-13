@@ -19,7 +19,7 @@ In this publication, we used this dataset split as follows:
 [train](https://github.com/EvaAlmansa/Pano3DLayout/blob/master/docs/split_dataset/train.txt) | 72
 | [test](https://github.com/EvaAlmansa/Pano3DLayout/blob/master/docs/split_dataset/test.txt) | 35
 
-## Content example of each folder in [dataset](https://github.com/EvaAlmansa/Pano3DLayout/tree/master/dataset)
+## An example of content of each folder in [dataset](https://github.com/EvaAlmansa/Pano3DLayout/tree/master/dataset)
 
 | img | label_cor |
 |:-----------|:--------------|
