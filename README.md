@@ -19,8 +19,8 @@ Giovanni Pintore, Eva Almansa, Marco Agus, and Enrico Gobbetti. 2021. **Deep3DLa
 In this publication, we used this dataset split as follows: 
 | Split | Number of samples |
 |:-----------|:--------------|
-[train](https://github.com/EvaAlmansa/Pano3DLayout/blob/master/docs/split_dataset/train.txt) | 72
-| [test](https://github.com/EvaAlmansa/Pano3DLayout/blob/master/docs/split_dataset/test.txt) | 35
+[train](https://github.com/EvaAlmansa/Pano3DLayout/blob/master/assets/split_dataset/train.txt) | 72
+| [test](https://github.com/EvaAlmansa/Pano3DLayout/blob/master/assets/split_dataset/test.txt) | 35
 
 ## An example of content of each folder in [dataset](https://github.com/EvaAlmansa/Pano3DLayout/tree/master/dataset)
 
